@@ -3065,11 +3065,11 @@
             },
             {
                 "text": "uniewaznienia certyfikatu klucza ma rowniez postac certyfikatu",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "do zweryfikowania certyfikatu klucza publicznego uzytkownika potrzebny jest certyfikat glownego urzedu (RootCA)",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
         "clue": 1,
@@ -7129,7 +7129,7 @@
             },
             {
                 "text": "telnet",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "tcpd",
@@ -7145,7 +7145,7 @@
             },
             {
                 "text": "rsh",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
         "clue": 2,
