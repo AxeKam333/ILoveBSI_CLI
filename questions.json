@@ -377,10 +377,10 @@
             },
             {
                 "text": "nie wymaga znajomości po stronie uwierzytelniającej żadnych danych wrażliwych klienta (Zero-Proof Knowledge)",
-                "isCorrect": true
+                "isCorrect": false
             }
         ],
-        "clue": 6,
+        "clue": 5,
         "isStarred": false
     },
     {
@@ -9453,7 +9453,7 @@
         "answers": [
             {
                 "text": "tak",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "tylko lokalne konta",
@@ -9461,7 +9461,7 @@
             },
             {
                 "text": "nie",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "tylko konta administratorow",

@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Fundamenty Kryptografii",
       "description": "Szyfry symetryczne (DES, 3DES, AES/Rijndael, Blowfish) vs asymetryczne (RSA, ElGamal). Funkcje skrótu (MD5, SHA) i HMAC. Klucze (FEK, PKCS#12). Podpis cyfrowy. Wektor inicjujący (IV).",
-      "questions": [3, 20, 22, 27, 28, 60, 83, 85, 87, 88, 89, 105, 112, 114, 120, 122, 175, 179, 181, 185, 186, 202, 225, 245, 255, 298, 321, 323, 326, 351, 367, 384, 387, 392, 403, 406, 407, 416, 419]
+      "questions": [3, 20, 22, 27, 28, 60, 83, 85, 87, 88, 89, 105, 112, 114, 120, 122, 175, 179, 181, 185, 186, 202, 225, 245, 255, 288, 298, 321, 323, 326, 351, 367, 384, 387, 392, 403, 406, 407, 416, 419]
     },
     {
       "id": 2,
       "name": "Uwierzytelnianie i Zarządzanie Tożsamością",
       "description": "Koncepcje 2FA i SSO. Protokoły sieciowe: Kerberos (KDC, AS, TGS), NTLM i LM. Hasła jednorazowe (OTP, Lamport) i metody challenge-response (CHAP). Uwierzytelnianie w HTTP (Basic, Digest).",
-      "questions": [2, 5, 8, 9, 15, 23, 34, 35, 79, 81, 97, 104, 106, 134, 137, 165, 174, 176, 177, 198, 213, 215, 222, 227, 249, 254, 259, 260, 261, 288, 330, 347, 372, 373, 409, 423]
+      "questions": [2, 5, 8, 9, 15, 23, 34, 35, 79, 81, 97, 104, 106, 134, 137, 165, 174, 176, 177, 198, 213, 215, 222, 227, 249, 254, 259, 260, 261, 330, 347, 372, 373, 409, 423]
     },
     {
       "id": 3,
