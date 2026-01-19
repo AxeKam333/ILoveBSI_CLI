@@ -833,11 +833,11 @@
     },
     {
         "questionId": 36,
-        "title": "!żółte w bazie! Ktore z ponizszych cech prawidlowo opisuja protokol IPsec?[X]",
+        "title": "!żółte w bazie! Ktore z ponizszych cech prawidlowo opisuja protokol IPsec?",
         "answers": [
             {
                 "text": "moze dzialac z uwierzytelnianiem stron dokumentowanym tylko przez ESP",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "moze dzialac w trybie tylko z ochrona integralnosci przez ESP",
@@ -852,7 +852,7 @@
                 "isCorrect": true
             }
         ],
-        "clue": 1,
+        "clue": 2,
         "isStarred": false
     },
     {
@@ -893,14 +893,14 @@
             },
             {
                 "text": "AES",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "DH",
-                "isCorrect": true
+                "isCorrect": false
             }
         ],
-        "clue": 3,
+        "clue": 1,
         "isStarred": false
     },
     {
@@ -5201,7 +5201,7 @@
         "answers": [
             {
                 "text": "rodzaj algorytmow wymiany kluczy w FreeS/Wan",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "bardzo wazny element pakietu FreeS/Wan pozwalajacy tworzyc bezpieczne polaczenie sterujace tunelami VPN",
@@ -5216,7 +5216,7 @@
                 "isCorrect": false
             }
         ],
-        "clue": 2,
+        "clue": 1,
         "isStarred": false
     },
     {
@@ -5313,7 +5313,7 @@
         "answers": [
             {
                 "text": "ruch sieciowy tunelowy i uwierzytelniany",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "ruch sieciowy nieszyfrowany ale uwierzytelniany",
@@ -5325,14 +5325,14 @@
             },
             {
                 "text": "ruch sieciowy tunelowany/transportowany",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "ruch sieciowy transportowany, szyfrowany i uwierzytelniany",
-                "isCorrect": true
+                "isCorrect": false
             }
         ],
-        "clue": 2,
+        "clue": 1,
         "isStarred": false
     },
     {
@@ -8408,11 +8408,7 @@
                 "isCorrect": false
             },
             {
-                "text": "nalezy uruchomic program OpenVPN z przelacznikiem: --force-multi-instance, wymuszajac w ten sposob uruchomienie wielu procesow programu OpenVPN do obslugi wielu",
-                "isCorrect": false
-            },
-            {
-                "text": "jednoczesnych polaczen vpn",
+                "text": "nalezy uruchomic program OpenVPN z przelacznikiem: --force-multi-instance, wymuszajac w ten sposob uruchomienie wielu procesow programu OpenVPN do obslugi wielu jednoczesnych polaczen vpn",
                 "isCorrect": false
             },
             {
@@ -8553,11 +8549,11 @@
         "answers": [
             {
                 "text": "punkt - punkt",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "klient - serwer",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "polaczenia peer-to-peer dla kazdego polaczenia",
