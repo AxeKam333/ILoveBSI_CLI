@@ -752,7 +752,7 @@
                 "isCorrect": false
             },
             {
-                "text": "przepelnienie bufora mozna wykryc i odpowiednio zareagowac'",
+                "text": "przepelnienie bufora mozna wykryc i odpowiednio zareagowac",
                 "isCorrect": true
             }
         ],
@@ -1225,30 +1225,6 @@
             }
         ],
         "clue": 2,
-        "isStarred": false
-    },
-    {
-        "questionId": 552,
-        "title": "Mechanizm EFS:",
-        "answers": [
-            {
-                "text": "zabezpiecza dostep do tresci poszczegolnych plikow zarowno w czasie dzialania systemu, jak i po jego wylaczeniu (at rest)",
-                "isCorrect": true
-            },
-            {
-                "text": "stosuje kryptografie asymetryczna do szyfrowania tresci plikow",
-                "isCorrect": false
-            },
-            {
-                "text": "realizuje full disc encyption w celu zabezpieczenia systemu operacyjnego przed niepowolanym uruchomieniem i dostepem",
-                "isCorrect": false
-            },
-            {
-                "text": "wymaga do swojego dzialania konta DRA",
-                "isCorrect": false
-            }
-        ],
-        "clue": 1,
         "isStarred": false
     },
     {
@@ -2253,7 +2229,7 @@
     },
     {
         "questionId": 93,
-        "title": "Koncepcja ,,zamknietych grup uzytkownikow\" dotyczy odseparowania danych przetwarzanych przez odrebne grupy uzytkownikow tego samego srodowiska sieciowego. Ktore z ponizszych mechanizmow sa realizacja tej koncepcji:",
+        "title": "Koncepcja \"zamknietych grup uzytkownikow\" dotyczy odseparowania danych przetwarzanych przez odrebne grupy uzytkownikow tego samego srodowiska sieciowego. Ktore z ponizszych mechanizmow sa realizacja tej koncepcji:",
         "answers": [
             {
                 "text": "sandbox net jail",
@@ -2468,7 +2444,7 @@
                 "isCorrect": true
             },
             {
-                "text": "moga byc w pewnym stopniu udaremnianie przy pomocy ,,czarnych list\"",
+                "text": "moga byc w pewnym stopniu udaremnianie przy pomocy \"czarnych list\"",
                 "isCorrect": true
             },
             {
@@ -2860,11 +2836,11 @@
         "title": "Wskaz cechy zapory sieciowej zrealizowanej poprzez Komputer-Twierdze (Bastion Host):",
         "answers": [
             {
-                "text": "dla ruchu z zewnatrz zapora ,,przykrywa\" soba cala siec wewnetrzna",
+                "text": "dla ruchu z zewnatrz zapora \"przykrywa\" soba cala siec wewnetrzna",
                 "isCorrect": true
             },
             {
-                "text": "dla ruchu od wewnatrz zapora ,,przykrywa\" soba caly swiat zewnetrzny",
+                "text": "dla ruchu od wewnatrz zapora \"przykrywa\" soba caly swiat zewnetrzny",
                 "isCorrect": true
             },
             {
@@ -3316,7 +3292,7 @@
                 "isCorrect": false
             },
             {
-                "text": "wstawienie ,,kanarka\" bezposrednio po wskazniku poprzedniej ramki",
+                "text": "wstawienie \"kanarka\" bezposrednio po wskazniku poprzedniej ramki",
                 "isCorrect": true
             }
         ],
@@ -3332,8 +3308,8 @@
                 "isCorrect": false
             },
             {
-                "text": "[x]ukrywa rzeczywisty adres odbiorcy pakietu",
-                "isCorrect": false
+                "text": "ukrywa rzeczywisty adres odbiorcy pakietu",
+                "isCorrect": true
             },
             {
                 "text": "moze byc pomyslnie wykonanie posrodku tunelu vpn tylko w trybie transportowym // w tunelowym",
@@ -3344,7 +3320,7 @@
                 "isCorrect": false
             }
         ],
-        "clue": 0,
+        "clue": 1,
         "isStarred": false
     },
     {
@@ -3561,7 +3537,7 @@
     },
     {
         "questionId": 141,
-        "title": "Mechanizm ochrony antyspamowej o nazwie ,,szare listy\" opera sie na:",
+        "title": "Mechanizm ochrony antyspamowej o nazwie \"szare listy\" opera sie na:",
         "answers": [
             {
                 "text": "automatycznym weryfikowaniu listy zabronionych adresow nadawcow przez MTA",
@@ -3829,11 +3805,11 @@
         "answers": [
             {
                 "text": "wspiera realizacje kontroli dostepu do zasobow sieciowych",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "umozliwia rejestrowanie dostepu do zasobow sieciowych",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "chroni przed atakami DNS spoofing",
@@ -3864,35 +3840,7 @@
                 "isCorrect": false
             }
         ],
-        "clue": 3,
-        "isStarred": false
-    },
-    {
-        "questionId": 152,
-        "title": "Ktora z ponizszych cech poprawnie opisuje protokol RADIUS:",
-        "answers": [
-            {
-                "text": "oferuje wymiane kluczy protokolu IPsec przy wykorzystaniu zarowno hasel jak i certyfikatow PKI",
-                "isCorrect": false
-            },
-            {
-                "text": "podnosi dostepnosc poprzez redundantne rozproszenie danych uwierzytelniajacych do wielu punktow dostepowych",
-                "isCorrect": false
-            },
-            {
-                "text": "udostepnia informacje niezbedne do kontroli uprawnien zdalnego dostepu (np. restrykcje czasowe)",
-                "isCorrect": false
-            },
-            {
-                "text": "pozwala na scentralizowane przechowywanie danych uwierzytelniajacych dla wielu punktow dostepowych",
-                "isCorrect": true
-            },
-            {
-                "text": "podnosi dostepnosc poprzez redundantne rozproszenie danych uwierzytelniajacych do wielu punktow dostepowych",
-                "isCorrect": false
-            }
-        ],
-        "clue": 1,
+        "clue": 5,
         "isStarred": false
     },
     {
@@ -4217,11 +4165,11 @@
         "answers": [
             {
                 "text": "zgode wydaje oficer bezpieczenstwa modyfikujac odpowiednio polityke bezpieczenstwa",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "tak",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "kazdorazowo musi otrzymac zgode oficera bezpieczenstwa",
@@ -7157,7 +7105,7 @@
         "answers": [
             {
                 "text": "wskazanie konta, z ktorego mozna wykonac polecenie bez pytania o haslo uzytkownika przypisanego do pliku programu tego polecenia, pod warunkiem przynaleznosci do grupy przypisanego do tego pliku",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "okreslenie jaki uzytkownik moze wykonywac konkretne programy z innymi uprawnieniami",
@@ -7172,7 +7120,7 @@
                 "isCorrect": false
             }
         ],
-        "clue": 2,
+        "clue": 1,
         "isStarred": false
     },
     {
@@ -8261,7 +8209,7 @@
     },
     {
         "questionId": 327,
-        "title": "Klasa B1 wg TCSEC (,,Orange Book\") lub rownowazna jej klasa EAL4 wg Common Criteria wymaga m. in.: ",
+        "title": "Klasa B1 wg TCSEC (\"Orange Book\") lub rownowazna jej klasa EAL4 wg Common Criteria wymaga m. in.: ",
         "answers": [
             {
                 "text": "ochrony systemowych obszarow pamieci",
@@ -8861,7 +8809,7 @@
     },
     {
         "questionId": 350,
-        "title": "[niezeryfikowane]Jak zachowa sie system kontroli ACL standardu POSIX w przypadku uzytkownika U nalezacego do grupy G i wpisanego na liscie ACL obiektu p, jesli ani U ani G nie maja jawnie przydzielonego prawa r, ale kategoria ,,wszyscy uzytkownicy\" (others) takie uprawnienie do obiektu posiada: ",
+        "title": "[niezeryfikowane]Jak zachowa sie system kontroli ACL standardu POSIX w przypadku uzytkownika U nalezacego do grupy G i wpisanego na liscie ACL obiektu p, jesli ani U ani G nie maja jawnie przydzielonego prawa r, ale kategoria \"wszyscy uzytkownicy\" (others) takie uprawnienie do obiektu posiada: ",
         "answers": [
             {
                 "text": "prawo r do obiektu p zostanie efektywnie przyznane, o ile U jest wlascicielem p",
@@ -10801,6 +10749,30 @@
             }
         ],
         "clue": 4,
+        "isStarred": false
+    },
+    {
+        "questionId": 429,
+        "title": "Mechanizm EFS:",
+        "answers": [
+            {
+                "text": "zabezpiecza dostep do tresci poszczegolnych plikow zarowno w czasie dzialania systemu, jak i po jego wylaczeniu (at rest)",
+                "isCorrect": true
+            },
+            {
+                "text": "stosuje kryptografie asymetryczna do szyfrowania tresci plikow",
+                "isCorrect": false
+            },
+            {
+                "text": "realizuje full disc encyption w celu zabezpieczenia systemu operacyjnego przed niepowolanym uruchomieniem i dostepem",
+                "isCorrect": false
+            },
+            {
+                "text": "wymaga do swojego dzialania konta DRA",
+                "isCorrect": false
+            }
+        ],
+        "clue": 1,
         "isStarred": false
     }
 ]
