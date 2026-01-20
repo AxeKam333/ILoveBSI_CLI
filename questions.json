@@ -593,10 +593,10 @@
             },
             {
                 "text": "wirtualizacja systemu operacyjnego",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
-        "clue": 1,
+        "clue": 2,
         "isStarred": false
     },
     {
@@ -6105,7 +6105,7 @@
         "answers": [
             {
                 "text": "serwer przesyla komunikat ServerHello ze swoim certyfikatem",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "klient uwierzytelnia serwer na podstawie odebranego certyfikatu",
@@ -6113,14 +6113,14 @@
             },
             {
                 "text": "serwer przesyla komunikat ServerHello z opcjonalnym losowym zawolaniem",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "klient odsyla podpisane zawolanie do serwera tylko jesli serwer zadal uwierzytelnienia klienta",
                 "isCorrect": true
             }
         ],
-        "clue": 4,
+        "clue": 2,
         "isStarred": false
     },
     {
