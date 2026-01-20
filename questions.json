@@ -1741,10 +1741,10 @@
             },
             {
                 "text": "stosuja protokol AH do uwierzytelniania stron tunelu",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
-        "clue": 1,
+        "clue": 2,
         "isStarred": false
     },
     {
@@ -10053,11 +10053,11 @@
     },
     {
         "questionId": 400,
-        "title": "Dany jest plik Tajne.txt w katalogu Jawne. Załóżmy, że użytkownik Adaś należy do grupy Users. Katalog Jawne ma przydzielone uprawnienia ACL dla grupy Users: ALLOW na czytanie i DENY na zapis. Plik Tajne.txt ma uprawnienia ALLOW na zapis dla użytkownika Adaś. Jakie uprawnienia ostatecznie ma Adaś do pliku Tajne.txt?: ",
+        "title": "!żółte w bazie! Dany jest plik Tajne.txt w katalogu Jawne. Załóżmy, że użytkownik Adaś należy do grupy Users. Katalog Jawne ma przydzielone uprawnienia ACL dla grupy Users: ALLOW na czytanie i DENY na zapis. Plik Tajne.txt ma uprawnienia ALLOW na zapis dla użytkownika Adaś. Jakie uprawnienia ostatecznie ma Adaś do pliku Tajne.txt?: ",
         "answers": [
             {
                 "text": "ma uprawnienia do odczytu, brak uprawnień do zapisu",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "brak uprawnień do odczytu i zapisu",
@@ -10069,7 +10069,7 @@
             },
             {
                 "text": "ma uprawnienia do zapisu, brak uprawnienia do odczytu",
-                "isCorrect": true
+                "isCorrect": false
             }
         ],
         "clue": 1,
@@ -10545,11 +10545,11 @@
             },
             {
                 "text": "IKE",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "ESP",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
         "clue": 2,
@@ -10608,7 +10608,7 @@
         "title": "W model uwierzytelniania z udziałem zaufanej trzeciej strony, do zadań tej trzeciej strony należy: ",
         "answers": [
             {
-                "text": "pobieranie danych uwierzytelniających od strony uwierzytelnionej",
+                "text": "pobieranie danych uwierzytelniających od strony uwierzytelnianej",
                 "isCorrect": true
             },
             {
