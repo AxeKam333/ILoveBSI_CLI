@@ -2721,7 +2721,7 @@
             },
             {
                 "text": "ARP (Address Resolution Protocol)",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "STP (Spanning Tree Protocol)",
@@ -2732,7 +2732,7 @@
                 "isCorrect": false
             }
         ],
-        "clue": 3,
+        "clue": 2,
         "isStarred": false
     },
     {
@@ -9445,7 +9445,7 @@
         "answers": [
             {
                 "text": "jesli program posiada taka mozliwosc (programista uwzglednil taka opcje)",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "nie jest to okreslone",
@@ -9453,7 +9453,7 @@
             },
             {
                 "text": "istnieja takie mozliwosci",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "nie",
