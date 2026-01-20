@@ -45,7 +45,7 @@
       "name": "Linux: System Plików i ACL",
       "description": "Uprawnienia podstawowe (rwx). POSIX ACL (setfacl, getfacl, maski). Bity specjalne SUID/SGID na plikach i katalogach.",
       "questions": [
-        47, 64, 67, 76, 86, 216, 238, 269, 272, 273, 293, 301, 316, 333, 346, 349, 350, 352, 357, 365, 377, 382, 386, 388, 391, 393, 398, 425
+        47, 64, 67, 76, 86, 147, 216, 238, 269, 272, 273, 293, 301, 316, 333, 346, 349, 350, 352, 357, 365, 377, 382, 386, 388, 391, 393, 398, 425
       ]
     },
     {
@@ -53,7 +53,7 @@
       "name": "Linux: Administracja i Modele Bezpieczeństwa",
       "description": "Sudo, PAM. Capabilities (CAP). Chroot i izolacja (Sandboxing). Limity (ulimit). Teoria MAC vs DAC. Zarządzanie usługami (xinetd).",
       "questions": [
-        12, 13, 29, 37, 42, 53, 68, 78, 101, 116, 147, 148, 161, 166, 167, 168, 220, 221, 226, 236, 239, 248, 262, 283, 284, 289, 297, 300, 327, 331, 353, 368, 369, 370, 375, 383, 396, 401, 408, 414, 421, 427
+        12, 13, 29, 37, 42, 53, 68, 78, 101, 116, 148, 161, 166, 167, 168, 220, 221, 226, 236, 239, 248, 262, 283, 284, 289, 297, 300, 327, 331, 353, 368, 369, 370, 375, 383, 396, 401, 408, 414, 421, 427
       ]
     },
     {

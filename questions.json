@@ -1809,14 +1809,14 @@
             },
             {
                 "text": "w momencie tworzenia pliku jego uprawnienia ACL kopiowane sa z domyslnych uprawnien (Default ACL) folderu nadrzednego z wykluczeniem uprawnienia do wykonywania",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "w momencie tworzenia katalogu jego uprawnienia domyslne (Default ACL) zostaja odziedziczone z folderu nadrzednego",
                 "isCorrect": true
             }
         ],
-        "clue": 1,
+        "clue": 2,
         "isStarred": false
     },
     {
@@ -8361,11 +8361,11 @@
             },
             {
                 "text": "zmiane uprawnien grupie \"group\" dla tego pliku",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "zmniejszenie uprawnien wpisom ACL'owym",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "rozszerzenie uprawnien dla innych",
@@ -9885,7 +9885,7 @@
     },
     {
         "questionId": 393,
-        "title": "$getfacl test owner: jbond group: agents user::rwuser:jbond:r-x group:agents:--x mask::r-x other:--- W takim wypadku użytkownik jbond (będący właścicielem obiektu test), należący do grupy agents, ma efektywne uprawnienia: ",
+        "title": "$getfacl test owner: jbond group: agents user::rw- user:jbond:r-x group:agents:--x mask::r-x other:--- W takim wypadku użytkownik jbond (będący właścicielem obiektu test), należący do grupy agents, ma efektywne uprawnienia: ",
         "answers": [
             {
                 "text": "rx",
@@ -10157,7 +10157,7 @@
             },
             {
                 "text": "UAC blokuje możliwość instalacji programów przez administratora",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "zmiana istotnych gałęzi rejestru systemu wymaga świadomej reakcji uprawnionego użytkownika",
@@ -10168,7 +10168,7 @@
                 "isCorrect": false
             }
         ],
-        "clue": 3,
+        "clue": 2,
         "isStarred": false
     },
     {
