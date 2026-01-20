@@ -3765,14 +3765,14 @@
             },
             {
                 "text": "chroni przed atakami IP spoofing",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "umozliwia uwierzytelnianie stanowisk sieci LAN",
                 "isCorrect": true
             }
         ],
-        "clue": 3,
+        "clue": 2,
         "isStarred": false
     },
     {
@@ -7033,11 +7033,11 @@
             },
             {
                 "text": "podczas blokady konta, kolejne logowanie bedzie mozliwe dopiero po wyzerowaniu licznika prob (np. przez administratora)",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "w czasie okreslonym dlugoscia okresu zerowania licznika prob logowania, uzytkownik nie moze podjac wiecej udanych prob logowania niz okresla prog blokady",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
         "clue": 1,
@@ -7281,7 +7281,7 @@
             },
             {
                 "text": "plik zostaje odszyfrowany",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "plik bedzie pozniej wymagal recznego odszyfrowania",
@@ -7289,7 +7289,7 @@
             },
             {
                 "text": "plik moze byc skopiowany tylko przez uzytkownika \"Data Recovery Agent\"",
-                "isCorrect": true
+                "isCorrect": false
             }
         ],
         "clue": 1,
@@ -9561,11 +9561,11 @@
             },
             {
                 "text": "klucz publiczny użytkownika, używany do odszyfrowywania kluczy FEK",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "klucz publiczny użytkownika, używany do szyfrowania kluczy FEK",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
         "clue": 1,
@@ -10177,11 +10177,11 @@
         "answers": [
             {
                 "text": "licznik prób logowania jest zerowany po każdej udanej próbie logowania",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "w czasie określonym długością okresu zerowania licznika prób logowania, użytkownik nie może podjąć więcej udanych prób logowania niż określa próg blokady",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "istnieje ustawienie progu blokady dopuszczające nieblokowanie konta mimo dowolnej liczby niepomyślnych prób logowania",
