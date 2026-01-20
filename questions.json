@@ -9781,10 +9781,10 @@
             },
             {
                 "text": "pozostali użytkownicy mogą zmodyfikować skrypt",
-                "isCorrect": false
+                "isCorrect": true
             }
         ],
-        "clue": 1,
+        "clue": 2,
         "isStarred": false
     },
     {
@@ -9917,7 +9917,7 @@
             },
             {
                 "text": "dane kierowane na port 9999 systemu neptun zostaną przesłane w niezabezpieczonej formie na port 23 systemu neptun",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "dane kierowane na port 9999 lokalnego systemu zostaną przesłane w zaszyfrowanej formie na port 22 systemu pluton",
@@ -9928,7 +9928,7 @@
                 "isCorrect": false
             }
         ],
-        "clue": 2,
+        "clue": 1,
         "isStarred": false
     },
     {
